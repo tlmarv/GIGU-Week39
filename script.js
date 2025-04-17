@@ -479,7 +479,43 @@ const quizData = [
   ],
   "correctAnswer": 2,
   "explanation": "Celiac disease is an immune-mediated enteropathy triggered by gluten ingestion in genetically predisposed individuals who express HLA-DQ2 or HLA-DQ8. Tissue transglutaminase modifies gliadin peptides via deamidation, enhancing their affinity for HLA-DQ2/DQ8 on antigen-presenting cells. This leads to CD4+ T cell activation and a Th1-mediated immune response, causing villous atrophy and crypt hyperplasia. (A) Describes toxic shock syndrome. (B) Suggests molecular mimicry, seen in post-infectious syndromes. (C) Correct. (D) FOXP3+ Tregs are involved in IPEX syndrome, not celiac disease. (E) Antibody-mediated damage occurs in autoimmune conditions but is not the primary mechanism in celiac disease.)"
-}
+},
+  {
+    "question": "A 35-year-old man with schizophrenia presents for a primary care visit. He has not seen a physician in several years and has a history of homelessness and substance use. He appears guarded, speaks minimally, and avoids eye contact. Which of the following physician actions best reflects a trauma-informed, patient-centered approach to care?",
+    "choices": [
+      "Speak primarily with the case manager to reduce patient discomfort",
+      "Refer the patient to psychiatry before addressing primary care needs",
+      "Use concrete, open-ended questions and affirm the patient’s efforts",
+      "Order all recommended screenings and proceed quickly to avoid distress",
+      "Reschedule the visit for a time when the patient is less guarded"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trauma-informed care for patients with SMI involves using developmentally appropriate, concrete, open-ended questions (e.g., from the OARS framework), affirmations, and allowing extra response time. (A) reduces autonomy, (B) delays needed medical care, (C) is correct, (D) may overwhelm the patient, and (E) avoids engagement.)"
+  },
+  {
+    "question": "A 29-year-old woman with a moderate intellectual disability is brought in by her caregiver for an annual physical exam. She is nonverbal and uses a communication board. The physician quickly interviews the caregiver and proceeds with a physical exam, despite the patient showing signs of distress. Which of the following best identifies the most significant error in this approach?",
+    "choices": [
+      "Failing to provide sedatives to reduce examination anxiety",
+      "Neglecting to confirm insurance coverage for preventive services",
+      "Proceeding with the exam without accommodating the patient’s communication needs",
+      "Delaying urgent laboratory work-up for convenience",
+      "Overprioritizing trauma-informed care over clinical assessment"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Patients with DD should have their communication tools respected and used in care. Trauma-informed and inclusive care requires patient engagement and consent when possible. (A) is not first-line, (B) is not a barrier here, (C) is correct, (D) is not applicable, (E) is incorrect; trauma-informed care supports clinical assessment, not hinders it.)"
+  },
+  {
+    "question": "A physician is evaluating a 45-year-old man with schizoaffective disorder and poorly controlled diabetes. The physician attributes his fatigue and weight loss to psychiatric medications and does not order further work-up. Which of the following best describes this cognitive bias and its clinical consequence?",
+    "choices": [
+      "Anchoring bias; overestimation of cardiovascular risk",
+      "Confirmation bias; excessive reliance on psychiatric input",
+      "Diagnostic overshadowing; underdiagnosis of physical comorbidities",
+      "Availability bias; overuse of emergency care services",
+      "Premature closure; misattributing symptoms to medication adherence"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diagnostic overshadowing occurs when physical symptoms are misattributed to a patient’s psychiatric diagnosis, a common barrier in SMI populations. (A) and (B) refer to other biases, (C) is correct, (D) relates to service usage, and (E) does not fully capture the misattribution.)"
+  }
   ];
 
 
